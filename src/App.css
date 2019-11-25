@@ -1,0 +1,65 @@
+.App {
+  display: block;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color:#222;
+  height: 50px;
+  padding: 1px;
+  color: white;
+}
+
+.App-intro {
+  font-size: 50 px;
+  text-align: center;
+}
+
+.App-footer {
+  background-color:#222;
+  position: absolute;
+  textalign: center;
+  right: 0;
+  left: 0;
+  padding: 1px;
+  width: 100%;
+  height: 50px;
+  bottom: 0;
+  padding: 10px;
+  color: blue;
+}
+
+.Header {
+  background-color: grey;
+  background-image: url("ban.jpg");
+  height: 50px;
+  padding: 10px;
+  color: White;
+  text-align: center
+}
+
+.Main {
+  background-color: #c0a678;
+}
+.Footer {
+ background-image: url("ban.jpg");
+ padding: 10px;
+ color: white;
+ text-align: center
+}
+
+.Nav {
+ background-color: #d0bb98;
+ float: right; 
+ width: 32%;
+ height: 1825px;
+ padding: 30px;
+ fontsize: 20px;
+ color: black;
+ text-align: center
+
+}
