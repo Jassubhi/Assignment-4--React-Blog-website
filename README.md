@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+Install Node.js on your system Install npm to get all the packages needed for running ReactJS application Go to Assignment-4--React-Blog-website and Clone/Download all the folders. Open terminal -> npm start This will run the site on localhost:3000
 
 In the project directory, you can run:
 
